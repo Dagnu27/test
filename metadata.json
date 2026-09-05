@@ -1,0 +1,6 @@
+{
+  "name": "Digital Health Regulatory Inspection System",
+  "description": "Electronic health regulatory inspection and audit system for Community Pharmacies, Medium Clinics, and Dental Clinics with dynamic checklist engine, scoring, evidence, GPS, digital signatures, and corrective actions.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
